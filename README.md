@@ -1,5 +1,5 @@
 # BITSBids
-Full Stack Bidding Website made using Java Spring Backend with MongoDB as Database along with vanilla HTML, CSS and JS as Frontend
+Full Stack Bidding Website made using Java Spring Backend with MongoDB as Database along with vanilla HTML, CSS and JS as Frontend.
 Also Features ChatClient using React Framework
 
 - Run Backend on port 8080
